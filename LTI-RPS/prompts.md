@@ -55,7 +55,7 @@ Con esto, ChatGPT me preguntó una serie de dudas:
 
 Tras responder a estas preguntas, continué con el proceso de generación de las User Stories y los casos de uso sin mayor complicación
 
-## Generaciín tickets de trabajo
+## Generación tickets de trabajo
 
 Tras tener las User Stories y los casos de uso, utilicé el siguiente prompt para generar los tickets de trabajo, adjuntando el archivo .md generado hasta el momento:
 
