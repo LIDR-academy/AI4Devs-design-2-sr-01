@@ -23,3 +23,15 @@ making them
 Feel free to ask me any question before commiting to a decision
 
 Output: markdown format
+
+# WOrking tickets
+
+Let's focus on user story to Publish a Job Opening
+
+Generate the work tickets. Detail them technically, as done in planning meetings
+and estimate tstimate the effort of the work tickets using a table with
+different methodologies (Fibonacci, Planning Poker, T-shirt sizes) and story
+points as unit
+
+Beware of dependencies between other user stories, and feel free to ask me
+anything before proceeding

@@ -28,7 +28,7 @@ Multiple drafts per recruiter are supported.
 
 ---
 
-## ✅ 2. Publish a Job Opening
+## ✅ 2. Publish a Job Opening (chosen to work on)
 
 **User Story:**  
 _As a recruiter, I want to publish a drafted job opening to my company’s careers
