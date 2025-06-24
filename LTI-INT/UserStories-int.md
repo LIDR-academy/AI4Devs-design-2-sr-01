@@ -13,7 +13,7 @@ Otro punto más es elige la User Story que prefieras, y genera los Tickets de tr
 
 (Extra 🎁) Estima el esfuerzo de los tickets de trabajo usando la metodología (fibonacci, poker, tallas de camiseta) y unidades (horas, puntos de historia) que prefieras. Hazme una tabla comparativa aplicando cada una de las metodologías, comparándolas, reflexionando cual es la que más beneficio aportaría.
 
-Si tienes alguna pregunta o duda házmela, realiza estas tareas
+Si tienes alguna pregunta o duda házmela, realiza estas tareas.
 
 ---
 
